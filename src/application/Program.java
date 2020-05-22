@@ -1,6 +1,6 @@
-package br.com.curso2020.application;
+package application;
 
-import br.com.curso2020.chess.ChessMatch;
+import chess.ChessMatch;
 
 public class Program {
 

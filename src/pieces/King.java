@@ -1,8 +1,8 @@
-package br.com.curso2020.chess.pieces;
+package pieces;
 
-import br.com.curso2020.boardgame.Board;
-import br.com.curso2020.chess.ChessPiece;
-import br.com.curso2020.chess.Color;
+import boardgame.Board;
+import chess.ChessPiece;
+import chess.Color;
 
 public class King extends ChessPiece{
 

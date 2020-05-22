@@ -1,6 +1,6 @@
-package br.com.curso2020.chess;
+package chess;
 
-public class ChessException extends RuntimeException{
+public class ChessException extends RuntimeException {
 
 	private static final long serialVersionUID = 1L;
 

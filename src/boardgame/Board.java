@@ -1,4 +1,4 @@
-package br.com.curso2020.boardgame;
+package boardgame;
 
 public class Board {
 
